@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT projects, DevOps, trading and travelling.
 - 🌱 I’m currently learning/practicing DevOps by implimenting in my organizations projects.
 - 💞️ I’m looking to collaborate on any DevOps related activities also for any sports events especially Table Tennis. 
-- 📫 You can reach me on email: Ketanaraje@gmail.com, mobile: 9657661093, [linkedin.com/in/ketanraje](https://www.linkedin.com/in/ketanraje/) 
+- 📫 You can reach me on email: Ketanaraje@gmail.com, mobile: 9657661093, Linkedin: [linkedin.com/in/ketanraje](https://www.linkedin.com/in/ketanraje/) 
 - ⚡ Fun fact: I treat my life like a CI/CD pipeline—automate everything, test often, and always rollback gracefully when things break. 😄
 
 <!---

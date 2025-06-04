@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @KetanRaje
-- 👀 I’m interested in IT projects, DevOps, trading and travelling.
-- 🌱 I’m currently learning/practicing DevOps by implimenting in my organizations projects.
-- 💞️ I’m looking to collaborate on any DevOps related activities also for any sports events especially Table Tennis. 
-- 📫 You can reach me on email: Ketanaraje@gmail.com, mobile: 9657661093, Linkedin: [linkedin.com/in/ketanraje](https://www.linkedin.com/in/ketanraje/) 
-- ⚡ Fun fact: I treat my life like a CI/CD pipeline—automate everything, test often, and always rollback gracefully when things break. 😄
+# 👋 Hi there, I'm Ketan Raje
 
-<!---
-KetanRaje/KetanRaje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **About Me**  
+I'm a passionate DevOps professional with over 14 years of experience in IT, automation, and infrastructure engineering. I’m deeply interested in solving real-world problems through automation, scalable deployments, and continuous learning.
+
+🔍 **Interests**  
+- DevOps tools and practices (Kubernetes, CI/CD, Infrastructure as Code)  
+- IT transformation projects  
+- Algorithmic trading and market analysis  
+- Exploring new places and cultures 🌍  
+- Sports enthusiast—especially Table Tennis 🏓
+
+🚀 **What I’m Working On**  
+I'm currently expanding my DevOps expertise by applying modern automation and deployment practices across enterprise projects at my organization.
+
+🤝 **Looking to Collaborate**  
+I'm open to collaborating on DevOps projects, knowledge-sharing sessions, or even organizing/participating in sports events (especially Table Tennis tournaments).
+
+📫 **Get in Touch**  
+- 📧 Email: ketanaraje@gmail.com  
+- 📱 Mobile: +91-9657661093  
+- 🔗 LinkedIn: [linkedin.com/in/ketanraje](https://www.linkedin.com/in/ketanraje)
+
+⚡ **Fun Fact**  
+I treat life like a CI/CD pipeline—automate what you can, test frequently, and always rollback gracefully when things go off track. 😄
